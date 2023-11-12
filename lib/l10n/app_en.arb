@@ -1,0 +1,20 @@
+{
+  "news": "News",
+  "sports": "Sports",
+  "politics": "Politics",
+  "health": "Health",
+  "buisness": "Buisness",
+  "settings": "Settings",
+  "environment": "Environment",
+  "science": "Science",
+  "theme_mode":"Theme mode",
+  "language": "Language",
+  "dark": "Dark",
+  "light": "Light",
+  "pick_your_category_of_interest": "Pick your category of interest",
+  "categories": "Categories"
+
+
+
+
+}
